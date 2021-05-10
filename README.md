@@ -25,11 +25,18 @@ Ruth Chia<sup>1</sup>, Sara Saez-Atienzar<sup>1</sup>, Natalie Murphy<sup>1</sup
 
 _____
 
-Code for each analysis are deposited as individual notebooks:
-1. QC of genotype data
+Code for each analysis are deposited as individual notebooks in the following folders. Each folder might contain more than one notebook as some analysis was performed per cohort followed by meta analysis.
+
+1. QC of genotype data and imputation
+
 2. Genome-wide association analysis (GWAS)
+      
 3. Transcriptome-wide association analysis (TWAS)
-4. HLA fine mapping
+    
+4. HLA fine mapping & genotype correlation
+       
 5. Genetic correlation using LDSC
+
 6. Mendelian Randomization
+
 7. Priority index analysis
