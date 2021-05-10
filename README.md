@@ -23,3 +23,13 @@ Ruth Chia<sup>1</sup>, Sara Saez-Atienzar<sup>1</sup>, Natalie Murphy<sup>1</sup
 15.	Contributed equally
 
 
+_____
+
+Code for each analysis are deposited as individual notebooks:
+1. QC of genotype data
+2. Genome-wide association analysis (GWAS)
+3. Transcriptome-wide association analysis (TWAS)
+4. HLA fine mapping
+5. Genetic correlation using LDSC
+6. Mendelian Randomization
+7. Priority index analysis
