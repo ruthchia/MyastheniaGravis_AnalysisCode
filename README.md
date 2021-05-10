@@ -27,16 +27,16 @@ _____
 
 Code for each analysis are deposited as individual notebooks in the following folders. Each folder might contain more than one notebook as some analysis was performed per cohort followed by meta analysis.
 
-1. QC of genotype data and imputation
+01. QC of genotype data and imputation
 
-2. Genome-wide association analysis (GWAS)
+02. Genome-wide association analysis (GWAS)
       
-3. Transcriptome-wide association analysis (TWAS)
+03. Transcriptome-wide association analysis (TWAS)
     
-4. HLA fine mapping & genotype correlation
+04. HLA fine mapping & genotype correlation
        
-5. Genetic correlation using LDSC
+05. Genetic correlation using LDSC
 
-6. Mendelian Randomization
+06. Mendelian Randomization
 
-7. Priority index analysis
+07. Priority index analysis
