@@ -25,7 +25,7 @@ Ruth Chia<sup>1</sup>, Sara Saez-Atienzar<sup>1</sup>, Natalie Murphy<sup>1</sup
 
 _____
 
-Code for each analysis are deposited as individual notebooks in the following folders. Each folder might contain more than one notebook as some analysis was performed per cohort followed by meta analysis.
+Code for each analysis are deposited as individual notebooks in the following folders. Each folder might contain more than one notebook as some analyses were performed per cohort followed by meta analysis.
 
 `01.` QC of genotype data and imputation
 
