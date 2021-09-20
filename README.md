@@ -37,9 +37,7 @@ Code for each analysis are deposited as individual notebooks in the following fo
        
 `05.` Genetic correlation using LDSC
 
-`06.` Mendelian Randomization
-
-`07.` Priority index analysis
+`06.` Priority index analysis
 
 
 _____
