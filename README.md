@@ -4,6 +4,8 @@ This repository contains codes used for the various genome-wide analysis perform
 
 **Identification of novel genetic risk loci and prioritization of therapies for myasthenia gravis: a genome-wide association study**
 
+https://doi.org/10.1073/pnas.2108672119
+
 Ruth Chia<sup>1</sup>, Sara Saez-Atienzar<sup>1</sup>, Natalie Murphy<sup>1</sup>, Adriano Chiò<sup>2,3,4</sup>, Cornelis Blauwendraat<sup>5</sup>, the International Myasthenia Gravis Genomics Consortium; Ricardo H. Roda<sup>6</sup>, Pentti J. Tienari<sup>7,8</sup>, Henry J. Kaminski<sup>9</sup>, Roberta Ricciardi<sup>10</sup>, Melania Guida<sup>10</sup>, Anna De Rosa<sup>10</sup>, Loredana Petrucci<sup>10</sup>, Amelia Evoli<sup>11</sup>, Carlo Provenzano<sup>12</sup>, Daniel B. Drachman<sup>6,15</sup>, and Bryan J. Traynor<sup>1,6,13,14,15</sup>
 
 1.	Neuromuscular Diseases Research Section, Laboratory of Neurogenetics, National Institute on Aging, Bethesda, MD 20892, USA
@@ -39,8 +41,3 @@ Code for each analysis are deposited as individual notebooks in the following fo
 
 `06.` Priority index analysis
 
-
-_____
-
-
-==== files will be made public upon manuscript acceptance ====
